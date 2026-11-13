@@ -119,4 +119,4 @@ If you want to build on this, you'd at minimum want to:
 
 - Model and code: [ACE-Step 1.5](https://github.com/ACE-Step/ACE-Step-1.5). Check their repository and model cards for licence terms before using generated audio commercially.
 - The lyrics and caption in this repo are original.
-- Script in this repo: add your preferred licence (e.g. MIT) as a `LICENSE` file.
+- `MIT LICENSE`
