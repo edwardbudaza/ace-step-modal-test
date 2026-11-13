@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local generation output (the MP3 to publish lives in samples/)
+generated/
+*.flac
+
+# Secrets / env
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
